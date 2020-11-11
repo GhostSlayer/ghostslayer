@@ -1,6 +1,5 @@
 <!-- hi :) -->
 <p>A developer from Finland :D what else i should put here? oh also i made the best discord bot called <a target="_" href="https://slaybot.xyz">slaybot</a></p><br>
-<a href="https://www.buymeacoffee.com/ghostslayeri" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=GhostSlayer&count_private=true"/>
