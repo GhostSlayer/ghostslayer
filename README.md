@@ -1,5 +1,5 @@
 <h1>Hello!</h1>
-<p>I'm a Full-Stack Developer from Finland :D I'm making a Discord bot which is completely free! <a target="_" href="https://slaybot.xyz">Visit SlayBot's website</a></p><br>
+<p>I'm a Full-Stack Developer from Finland :D I'm making a Discord bot which is completely free! <a target="_" href="https://slaybot.xyz">Visit SlayBot's website</a></p>
 
 <br>
 
